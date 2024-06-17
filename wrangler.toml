@@ -1,0 +1,8 @@
+name = "cf-worker-ws-vless"
+main = "_worker.js"
+
+compatibility_date = "2024-04-15"
+
+[vars]
+UUID = "ab69cb3b-3c38-467d-a553-f786f79f0546"
+
